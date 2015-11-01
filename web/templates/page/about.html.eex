@@ -1,0 +1,13 @@
+<div class='well'>
+  <h2>About:</h2>
+
+  <section>
+    <p>
+      So, Elixir and Phoenix seem pretty cool. After following the "Adding 
+      pages" guide in the Phoenix docs I was pleasantly surprised to see
+      that Phoenix directly enforces common patterns for writing clean,
+      maintainable software such as the Presenter Pattern which Phoenix
+      enforces by requiring a View + a Template.
+    </p>
+  </section>
+</div>
